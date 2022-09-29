@@ -7,9 +7,52 @@ header{
 }
 
 footer{
-  background-color:#000000
+  background-color:#ffc9ff
 }
 
 h1{
   color:#ffb6c1
 }
+
+body{
+}
+
+#banner{
+  background: #ffc9ff
+    width:100%
+}
+
+.título-principal{
+  padding-left:20px;
+}
+
+.título-centralizado{
+  text-align:center
+}
+
+p{
+  text-align:center;
+}
+
+em strong{
+  color:#000000;
+}
+
+.itens{
+  font-style:italic
+}
+
+.beneficios{
+  background:#ffc9ff;
+  padding:20px;
+}
+
+ul{
+  display:incline-block;
+  vertical-align:top;
+  width:20%;
+    margin-right:15%;
+  
+  .imagembeneficios{
+    width:50%
+  }
